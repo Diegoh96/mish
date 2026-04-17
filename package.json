@@ -1,0 +1,20 @@
+{
+  "name": "proyecto-3-capas",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^5.0.2",
+    "express": "^4.22.1",
+    "express-session": "^1.19.0",
+    "mysql2": "^3.22.1",
+    "sqlite3": "^5.1.6"
+  },
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
